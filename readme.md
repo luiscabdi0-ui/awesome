@@ -1,23 +1,50 @@
 <div align="center">
-	<img width="500" height="350" src="media/logo.svg" alt="Awesome">
-	<br>
-	<br>
-	<br>
-	<br>
-	<div>
-		<sub>Check out my macOS app</sub>
-		<br>
-		<h2>
-			<a href="https://sindresorhus.com/supercharge">Supercharge</a>
-			<br>
-			<sup>Elevate your Mac experience</sup>
-		</h2>
-	</div>
-	<br>
-	<br>
-	<br>
-	<br>
-	<hr>
+	<img width="500" height="350" src="media/logo.svg"sup> alt="Awesome">
+	<br>//start
+<biv>1000034868.jpg
+	<br>//hatter
+	<br>edit.file
+	<br>key_ztyc0NqTASVIZ6e2
+	<div>AANAS5DE44
+		<sub>Check out my macOS app</sub>media/logo.svg"
+		<br>www.com
+<name>my-ai-assistant-
+		<h2>@image1
+			<a>cbr href="https://sindresorhus.com/supercharge">Supercharge</a>lowx
+			<br>app
+			<sup>Elevate your Mac experience</sup>app
+		</h2>bw2
+	</div>afes
+	<br>best
+	<br>new
+	<br>makeing-mony
+	<br>3D
+<br>4k
+import OpenAI from "openai";
+const client = new OpenAI();
+
+const response = await client.responses.create({
+  model: "gpt-6-astra",
+  input: [
+    {
+      role: "user",
+      content: [
+        {
+          type: "input_text",
+          text: "What is in this image?",
+        },
+        {
+          type: "input_image",
+          image_url:
+            "https://openai-documentation.vercel.app/images/cat_and_otter.png",
+          detail: "auto",
+        },
+      ],
+    },
+  ],
+});
+
+console.log(response.output_text);
 import OpenAI from "openai";
 const client = new OpenAI();
 
